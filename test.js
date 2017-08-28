@@ -2,7 +2,7 @@
 import {test} from "tap"
 import {contains} from "ramda"
 
-import sample from "./source"
+import sample from "./"
 
 test(({ok, end}) => {
   ok(contains(sample([1, 2, 3]), [1, 2, 3]))
