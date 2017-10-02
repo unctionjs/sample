@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "@unction/first": "1.3.0",
-    "@unction/shuffle": "2.3.0"
+    "@unction/shuffle": "2.4.1"
   },
   "files": [
     "transpiled/index.js"
