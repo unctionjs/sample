@@ -58,8 +58,8 @@
     "tap": "10.3.4"
   },
   "dependencies": {
-    "@unction/first": "1.4.0",
-    "@unction/shuffle": "2.5.0"
+    "@unction/first": "1.5.0",
+    "@unction/shuffle": "2.6.0"
   },
   "files": [
     "transpiled/index.js"
