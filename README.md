@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> (string | Array<any>) -> (string | any)
+> (string | Array<any>) => (string | any)
 
 Takes an Array or string and randomly one element to return.
 
