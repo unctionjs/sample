@@ -59,8 +59,8 @@
     "tap": "12.6.1"
   },
   "dependencies": {
-    "@unction/first": "3.1.0",
-    "@unction/shuffle": "13.6.0"
+    "@unction/first": "3.1.1",
+    "@unction/shuffle": "13.7.0"
   },
   "files": [
     "index.js",
