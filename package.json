@@ -60,8 +60,7 @@
   },
   "dependencies": {
     "@unction/first": "3.1.0",
-    "@unction/shuffle": "13.6.0",
-    "core-js": "3.0.1"
+    "@unction/shuffle": "13.6.0"
   },
   "files": [
     "index.js",
