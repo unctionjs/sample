@@ -1,5 +1,7 @@
 import first from "@unction/first";
 import shuffle from "@unction/shuffle";
-export default function sample (list) {
+import {OrderedEnumerableType} from "./types";
+
+export default function sample<A> (list: OrderedEnumerableType<A>): A {
   return first(shuffle(list));
 }

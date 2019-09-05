@@ -4,9 +4,9 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> OrderedFunctorType<T> => T
+> OrderedEnumerableType<A> => A
 
-Takes an Array or string and randomly one element to return.
+Takes an ordered enumerable and returns one random element.
 
 ``` javascript
 users() // => [{"id": 1, "name": "Kurtis Rainbolt-Greene"}, {"id": 2, "name": "Angela Englund"}]
