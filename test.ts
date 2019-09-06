@@ -1,7 +1,7 @@
 /* eslint-disable no-magic-numbers */
 import { contains } from "ramda";
 
-import sample from "./index.ts";
+import sample from "./index";
 
 test(() => {
   expect(contains(sample([1, 2, 3]), [1, 2, 3])).toBeTruthy();
