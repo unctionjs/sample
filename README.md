@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> OrderedArray<A> | Set<A> | RecordType<unknown, A> | string => A
+> OrderedArray<A> | Set<A> | Record<string | number | symbol, B> | Map<B, A> | string => A
 
 Takes an ordered enumerable and returns one random element.
 
